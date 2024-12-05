@@ -54,3 +54,6 @@ If no save file is found, a new one is created with default values.
 
 Power-ups are temporary boosts that multiply cookie production for a limited time.
 
+## Authors
+
+- [@NAME4YOU](https://github.com/NAME4YOU)
