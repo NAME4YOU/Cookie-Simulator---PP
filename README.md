@@ -6,7 +6,7 @@ This is a Cookie Simulator Game developed in C# for the console. It includes fea
 
 ### Zespół    
     - Maciej Koput
-### [Trello](https://trello.com/b/J26HAwfB/cookie-tbd-simulator)
+### [Trello](https://trello.com/invite/b/6735d15a39a2a9b0d2263db5/ATTI41dcf37bd5f85e6802fbd618b34f3e9a3AB6F92C/cookie-tbd-simulator)
 
 ## Features
 
