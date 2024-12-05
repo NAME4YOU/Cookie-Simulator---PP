@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/bin/Debug/net7.0/Console Cookie Clicker
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/bin/Debug/net7.0/Console Cookie Clicker.deps.json
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/bin/Debug/net7.0/Console Cookie Clicker.runtimeconfig.json
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/bin/Debug/net7.0/Console Cookie Clicker.dll
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/bin/Debug/net7.0/Console Cookie Clicker.pdb
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.AssemblyInfo.cs
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.dll
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/refint/Console Cookie Clicker.dll
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.pdb
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/Console Cookie Clicker.genruntimeconfig.cache
+/Users/macbook/Projects/Console Cookie Clicker/Console Cookie Clicker/obj/Debug/net7.0/ref/Console Cookie Clicker.dll
