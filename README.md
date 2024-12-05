@@ -1,8 +1,11 @@
 # Cookie Simulator Game
 
+### Zespół    
+    - Maciej Koput
+### Trello
+    - [Trello](https://trello.com/b/J26HAwfB/cookie-tbd-simulator)
+
 This is a Cookie Simulator Game developed in C# for the console. It includes features like upgrades, achievements, events, power-ups, a currency system, and a filesystem-based "database" for saving and loading game progress.
-
-
 
 ## Features
 
